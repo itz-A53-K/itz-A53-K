@@ -1,4 +1,4 @@
-<div style="height: 200px; overflow"hidden" "><img align="center" alt="" width="100%" src="./img/git_banner.png" style="height: 100%; object-fit: cover; object-position: center;"/></div>
+<div style="height: 200px; overflow"hidden" "><img align="center" alt="" width="100%" src="./img/git_banner1.png" style="height: 100%; object-fit: cover; object-position: center;"/></div>
 
 <h1 >I'm Abinash Kalita !</h1>
 <h3 >Hay stranger, I'm a full-stack Web Developer with 4+ years of experience crafting user-centric web solutions using Django and PHP. Skilled in API integration, performance optimization, and solving complex challenges. Dedicated to delivering high-quality, scalable solutions. In my Frontend work, you can checkout my highly Animated creative designs!</h3>
