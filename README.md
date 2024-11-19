@@ -5,7 +5,7 @@
 
 <div style="padding: 20px;">
   <ul>
-    <li>🌱 I’m currently learning : AMP - A web development Framework , Three.js</li>
+    <li>🌱 I’m currently learning : AMP - A web component Framework , Three.js</li>
     <li>💻Visit my <a href="https://abikalita.in" target="_blank">Portfolio</a> for more details about me.</li>
   </ul>
 </div>
