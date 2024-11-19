@@ -18,9 +18,9 @@
   
 <h3 align="left"> 📫 How to reach me:</h3>
 <div style="display: flex; gap: 1rem; padding: 5px;"
-  <a style="border: 1px solid #fff; border-radius: 5px; margin: 0 10px;" href="https://www.linkedin.com/in/abinash-kalita"> <img width="50" height=50" src="./img/linked.png" /></a>
+  <a style="border: 1px solid #fff; border-radius: 5px; margin: 0 10px;" href="https://www.linkedin.com/in/abinash-kalita" title="LinkedIn"> <img width="50" height=50" src="./img/linkedin.png" /></a>
   <a style="border: 1px solid #fff; border-radius: 5px; margin: 0 10px;" href="https://abikalita.in" title="abikalita.in (Portfolio)"> <img width="50" height=50" src="./img/logo.webp" /></a>
-  <a style="border: 1px solid #fff; border-radius: 5px; margin: 0 10px;" href="mailto:connect.abikalita.in"> <img width="50" height=50" src="./img/gmail.png" /></a>
+  <a style="border: 1px solid #fff; border-radius: 5px; margin: 0 10px;" href="mailto:connect.abikalita.in" title="Email"> <img width="50" height=50" src="./img/email.png" /></a>
 </div>
 
 ---
