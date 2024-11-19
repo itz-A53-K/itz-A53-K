@@ -1,14 +1,18 @@
 <div style="height: 200px; overflow"hidden" "><img align="center" alt="" width="100%" src="/Designer.png" style="height: 100%; object-fit: cover; object-position: center;"/></div>
 
-<h1 align="center">Hi 👋, I'm Abinash Kalita</h1>
-<h3 align="center">Hay stranger, I'm a full-stack Web Developer with 4+ years of experience crafting user-centric web solutions using Django and PHP. Skilled in API integration, performance optimization, and solving complex challenges. Dedicated to delivering high-quality, scalable solutions. In my Frontend work, you can checkout my highly Animated creative designs!</h3>
+<h1 >I'm Abinash Kalita !</h1>
+<h3 >Hay stranger, I'm a full-stack Web Developer with 4+ years of experience crafting user-centric web solutions using Django and PHP. Skilled in API integration, performance optimization, and solving complex challenges. Dedicated to delivering high-quality, scalable solutions. In my Frontend work, you can checkout my highly Animated creative designs!</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=itz-A53-K&label=Profile%20views&color=0e75b6&style=flat)
+<div style="padding: 20px;">
+  <ul>
+    <li>🌱 I’m currently learning : AMP - A web development Framework , Three.js</li>
+    <li>💻Visit my <a href="https://abikalita.in" target="_blank">Portfolio</a> for more details about me.</li>
+  </ul>
+</div>
+
+![](https://komarev.com/ghpvc/?username=itz-A53-K&label=Profile+Views&color=410c6b&style=for-the-badge)
 
 ---
-### 🌱 What I'm Learning:
-- AMP - A web development Framework
-- Three.js
 
 ### 🛠️ My Skills:
 - **Front-End**: GSAP, Locomotive.js, ScrollTrigger, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
