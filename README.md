@@ -5,7 +5,7 @@
 
 <div style="padding: 20px;">
   <ul>
-    <li>🌱 I’m currently learning : AMP - A web component Framework , Three.js</li>
+    <li>🌱 Current Interests : Desktop application (Tkinter based), WebSocket based Real-time communication, Django Channels, Microservices</li>
     <li>💻Visit my <a href="https://abikalita.in" target="_blank">Portfolio</a> for more details about me.</li>
   </ul>
 </div>
@@ -15,8 +15,8 @@
 ---
 
 ### 🛠️ My Skills:
-- **Front-End**: GSAP, Locomotive.js, ScrollTrigger, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
-- **Back-End**: Django, PHP, Django REST Framework
+- **Front-End**: GSAP, Locomotive.js, ScrollTrigger, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, Tkinter
+- **Back-End**: Django, PHP, Django REST Framework, WebSocket
 - **Databases**: MySQL, SQLite
 - **Tools & Other Skills**: GitHub, Debugging, Responsive Web Design, Machine Learning (beginner), Payment Integration, Jquery
   
@@ -33,6 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-A53-K&show_icons=true&locale=en" alt="itz-A53-K" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-A53-K&" alt="itz-A53-K" /></p>
+
 
 
 <!--
